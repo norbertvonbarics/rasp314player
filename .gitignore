@@ -1,4 +1,6 @@
 out
+./lib/
+*.jar
 .idea
 *.iml
 *.xml
